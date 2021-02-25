@@ -1,0 +1,10 @@
+C:\Users\Abdulkadir Can\source\repos\UsbStorageController\UsbStorageController\obj\Debug\UsbStorageController.UsbStorageController.resources
+C:\Users\Abdulkadir Can\source\repos\UsbStorageController\UsbStorageController\obj\Debug\UsbStorageController.Properties.Resources.resources
+C:\Users\Abdulkadir Can\source\repos\UsbStorageController\UsbStorageController\obj\Debug\UsbStorageController.csproj.GenerateResource.cache
+C:\Users\Abdulkadir Can\source\repos\UsbStorageController\UsbStorageController\obj\Debug\UsbStorageController.csproj.CoreCompileInputs.cache
+C:\Users\Abdulkadir Can\source\repos\UsbStorageController\UsbStorageController\obj\Debug\UsbStorageController.csprojAssemblyReference.cache
+C:\Users\Abdulkadir Can\source\repos\UsbStorageController\UsbStorageController\bin\Debug\UsbStorageController.exe.config
+C:\Users\Abdulkadir Can\source\repos\UsbStorageController\UsbStorageController\bin\Debug\UsbStorageController.exe
+C:\Users\Abdulkadir Can\source\repos\UsbStorageController\UsbStorageController\bin\Debug\UsbStorageController.pdb
+C:\Users\Abdulkadir Can\source\repos\UsbStorageController\UsbStorageController\obj\Debug\UsbStorageController.exe
+C:\Users\Abdulkadir Can\source\repos\UsbStorageController\UsbStorageController\obj\Debug\UsbStorageController.pdb
